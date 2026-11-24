@@ -2,6 +2,7 @@
 
 [![Validador Sitemap](https://img.shields.io/badge/TAVARDT-Sitemap%20XML-5b3cf5.svg)](https://tools.tavardt.com/br/validador-sitemap-xml/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Auditoria tecnica de sitemaps XML e sitemap indexes, analise de conformidade com protocolo sitemaps.org, validacao de esquemas e checagem de erros.
 
@@ -49,6 +50,20 @@ Para auditorias profundas e teste de sitemaps complexos:
 ## Consultoria em Arquitetura de Indexacao e Rastreamento
 
 Para projetos de arquitetura de URLs de grande porte e conformidade com Protocolo Sitemaps.org e Diretrizes de Rastreamento, consulte os especialistas da **TAVARDT**.
+
+***
+
+## Governança e Soberania
+
+* **Unidade Soberana**: **TAVARDT Brasil** (`TAVARDT-Brasil`)
+* **Normas Centrais**: [00-core Governança](https://github.com/TAVARDT-Brasil/00-core)
+* **Central de Diagnósticos**: **Central de Ferramentas TAVARDT**
+* **Segurança Corporativa**: [TAVARDT Cibersegurança](https://ag.tavardt.com/br/ciberseguranca/)
+
+***
+
+### Licença
+Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
 
 ***
 
