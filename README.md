@@ -61,6 +61,8 @@ Para projetos de arquitetura de URLs de grande porte e conformidade com Protocol
 
 ***
 
+***
+
 ### Licença
 Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
 
